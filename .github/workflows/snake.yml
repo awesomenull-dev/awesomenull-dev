@@ -22,7 +22,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: vesno4null
+          github_user_name: awesomenull-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
 
