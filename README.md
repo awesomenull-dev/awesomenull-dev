@@ -20,9 +20,9 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-I'm a developer dedicated to writing clean, efficient code and building meaningful projects. I love exploring new technologies, solving complex problems, and contributing to open-source communities!
+i use fedora btw
 
 ---
 
@@ -30,7 +30,7 @@ I'm a developer dedicated to writing clean, efficient code and building meaningf
 ```
 🔧 Always expanding my toolkit
 📚 Continuous learner
-🎯 Problem solver
+🎯 Bugs creator
 ```
 ---
 
@@ -46,34 +46,15 @@ I'm a developer dedicated to writing clean, efficient code and building meaningf
 
 ---
 
-## 🎯 What I'm Working On
+## What I'm Working On
 
-- 🔨 Building awesome projects
-- 📖 Sharing knowledge through code
-- 🌱 Growing as a developer
-- 🤝 Contributing to the community
-
----
-
-## 📬 Get in Touch
-
-<div align="center">
-
-Feel free to reach out if you want to:
-- Collaborate on projects
-- Discuss ideas
-- Share knowledge
-- Connect professionally
-
-</div>
+- GoldenNugget (Nugget for ios 27+)
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, feel free to star some repos!
-
-*Happy coding! 💻*
+### pls star my repos if you like them
 
 ### The penguin's lair is here
 
