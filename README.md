@@ -1,10 +1,8 @@
-# 🚀 Welcome to my GitHub Profile!
-
 <div align="center">
   
   ### Hey there! I'm **awesomenull** 👋
   
-  *Passionate developer | Code enthusiast | Always learning*
+  *Passionate developer | Code enthusiast | Never learning*
   
   [![GitHub followers](https://img.shields.io/github/followers/awesomenull-dev?label=Follow&style=social)](https://github.com/awesomenull-dev)
   
@@ -28,7 +26,7 @@ i use fedora btw
 
 ### Languages & Tools
 ```
-🔧 Always expanding my toolkit
+🔧 Never expanding my toolkit
 📚 Continuous learner
 🎯 Bugs creator
 ```
