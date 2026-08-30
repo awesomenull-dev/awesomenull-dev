@@ -20,7 +20,7 @@
 
 ## About Me
 
-i use fedora btw
+i use linux btw
 
 ---
 
@@ -32,13 +32,9 @@ i use fedora btw
 ```
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=awesomenull-devl&theme=dark&show_icons=true&hide_border=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=awesomenull-dev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=awesomenull-dev)](https://git.io/streak-stats)
 
 </div>
 
@@ -46,15 +42,13 @@ i use fedora btw
 
 ## What I'm Working On
 
-- GoldenNugget (Nugget for ios 27+)
+- GoldenNugget (Nugget for iOS 27+)
 
 ---
 
 <div align="center">
 
 ### pls star my repos if you like them
-
-### The penguin's lair is here
 
 ![SHEFOS 320KG](https://github.com/awesomenull-dev/awesomenull-dev/blob/main/SqWGcKYyKgQPPNs-800x450-noPad.webp)
 
