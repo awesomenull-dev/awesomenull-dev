@@ -20,7 +20,7 @@
 
 ## About Me
 
-i use linux btw
+i use macos 26 tahoe btw
 
 ---
 
